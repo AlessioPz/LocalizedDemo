@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizedDemo
+
+  Created by Alessio Papazzoni on 01/06/18.
+  Copyright © 2018 bussolalabs. All rights reserved.
+*/
+"This is a demo about localization strings." = "Questa è una demo sulla localizzazione.";
+"Date: %@" = "Data: %@";
